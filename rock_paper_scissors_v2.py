@@ -1,6 +1,6 @@
 import random
 
-# rock, paper, scissors = [Choices]
+
 play = True
 c_score = 0
 u_score = 0
